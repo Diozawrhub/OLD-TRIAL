@@ -1,0 +1,14 @@
+.btn {
+  display: inherit-block;
+  vertical-align: top;
+
+  background: $secondary;
+  border: none;
+  cursor: poiner;
+
+  font-family:inherit;
+  font-size: 1.2rem;
+  line-height: 1.1;
+  font-weight: 500;
+  color: $white;
+}
